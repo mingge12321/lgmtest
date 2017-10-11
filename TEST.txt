@@ -6,10 +6,4 @@ tstsdd
 dfdf
 bb
 aa
-<<<<<<< .mine
-cc
-ddd
-=======
-cc
-eee
->>>>>>> .theirs
+aaddd
