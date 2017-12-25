@@ -5,3 +5,4 @@ dddaa
 11111
 test rebase2
 test rebase3
+test rebase remote4
